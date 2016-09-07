@@ -22,6 +22,9 @@ config.module.loaders.push({
   loader:  ExtractTextPlugin.extract("style","css!postcss")
 });
 config.devtool = 'eval-source-map';
+function getFile (fileName){
+
+}
 config.plugins = [
   new webpack.optimize.OccurenceOrderPlugin(),
   new webpack.DefinePlugin({

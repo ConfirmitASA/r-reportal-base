@@ -3,8 +3,7 @@ var name = packageJSON["name"];
 
 module.exports = {
   entry: {
-    js:"./src/"+name+".js",
-    css:"./src/"+name+".css"
+    js:"./src/main.js",
   },
   output: {
     path: "./dist",
