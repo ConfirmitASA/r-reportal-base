@@ -1,5 +1,5 @@
 {
-  "name": "r-reporal-base",
+  "name": "r-reportal-base",
   "version": "0.1.0",
   "description": "Boilerplate for ES6 modules with Karma & Jasmine",
   "main": "src/reportal-base.js",
