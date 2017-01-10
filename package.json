@@ -1,7 +1,7 @@
 {
   "name": "r-reportal-base",
   "version": "0.1.1",
-  "description": "Boilerplate for ES6 modules with Karma & Jasmine",
+  "description": "Reportal Base class with utility functions",
   "main": "src/reportal-base.js",
   "repository": {
     "type": "git",
